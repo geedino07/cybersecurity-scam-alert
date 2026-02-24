@@ -38,3 +38,21 @@ body {
   p {
     line-height: 1.6;
   }
+
+  footer {
+    text-align: center;
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 1px solid #ccc;
+    font-size: 0.9rem;
+    color: #555;
+  }
+  
+  footer a {
+    color: #1976d2;
+    text-decoration: none;
+  }
+  
+  footer a:hover {
+    text-decoration: underline;
+  }
